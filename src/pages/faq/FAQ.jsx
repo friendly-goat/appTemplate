@@ -2,22 +2,22 @@ import React from "react";
 
 const faqs = [
   {
-    question: "What is this website about?",
+    question: "Lorem ipsum dolor sit amet?",
     answer:
-      "This website is a platform to provide information and services to our users.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis.",
   },
   {
-    question: "How can I contact support?",
-    answer: "You can contact support by emailing us at support@example.com.",
+    question: "Quis nostrud exercitation ullamco?",
+    answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
   },
   {
-    question: "What services do you offer?",
+    question: "Ut enim ad minim veniam?",
     answer:
-      "We offer a variety of services including tutorials, resources, and community support.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus luctus urna sed urna.",
   },
   {
-    question: "Is there a subscription fee?",
-    answer: "No, our platform is free to use for all users.",
+    question: "Duis aute irure dolor in reprehenderit?",
+    answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
   },
 ];
 
