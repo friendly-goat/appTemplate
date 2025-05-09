@@ -183,12 +183,9 @@ export default function HeroSection() {
     <div className="relative w-full h-full">
       {/* Left side text */}
       <div className="absolute z-10 flex flex-col md:w-1/2 h-full justify-between md:justify-center text-center md:text-left py-20 md:left-10">
-        <h1 className="text-5xl font-bold mb-4 text-base-pink">Twistomy</h1>
+        <h1 className="text-5xl font-bold mb-4 text-base-pink">Template</h1>
         <p className="text-xl">
-          You put it in yout body and it does really cool stuff for people who
-          need it. Oh yeah, its also super simple and easy to use. I mean, cmon,
-          its obvious this thing rocks. Call us right now and get your inestine
-          valve today!
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc dignissim, justo ac lobortis cursus, tellus nisi porta justo, in mattis risus urna sit amet lorem.
         </p>
       </div>
 

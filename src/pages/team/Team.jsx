@@ -1,40 +1,36 @@
 import React from "react";
 import HeadShotWithText from "../../components/headShotWithText/headShotWithText";
-import DrMoulton from "../../assets/pictures/headshots/Dr_Moulton.jpg";
-import SaraFidanza from "../../assets/pictures/headshots/Sara_Headshot.jpg";
-import LilyWilliams from "../../assets/pictures/headshots/Lily_headshot.jpg";
-import DevonHorton from "../../assets/pictures/headshots/Devon_headshot.png";
-import MichaelPizzalato from "../../assets/pictures/headshots/Pizzalato_headshot.jpg";
+import headShotPic from "../../assets/pictures/headshots/placeholder-headshot.png"
 
 const teamMembers = [
   {
-    imageSrc: DrMoulton,
-    name: "Steven L. Moulton, MD",
-    role: "Professor of Surgery",
-    bio: "Department of Surgery, University of Colorado School of Medicine and Children’s Hospital Colorado",
+    imageSrc: headShotPic,
+    name: "John Doe, MD",
+    role: "Lorem Ipsum Position",
+    bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
   },
   {
-    imageSrc: SaraFidanza,
-    name: "Sara Fidanza, CNS-BC, CPNP-PC",
-    role: "Pediatric Nurse Practitioner",
-    bio: "Department of GI, University of Colorado Anschutz Medical Campus",
+    imageSrc: headShotPic,
+    name: "Jane Smith, CNS-BC",
+    role: "Lorem Ipsum Position",
+    bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
   },
   {
-    imageSrc: LilyWilliams,
-    name: "Lily Williams, BS",
-    role: "Bioengineer",
-    bio: "Department of Surgery, University of Colorado Anschutz Medical Campus",
+    imageSrc: headShotPic,
+    name: "Alex Johnson, BS",
+    role: "Lorem Ipsum Role",
+    bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
   },
   {
-    imageSrc: DevonHorton,
-    name: "Devon Horton, BS",
-    role: "Senior Bioengineer",
-    bio: "Department of Surgery, University of Colorado Anschutz Medical Campus",
+    imageSrc: headShotPic,
+    name: "Chris Lee, BS",
+    role: "Lorem Ipsum Role",
+    bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
   },
   {
-    imageSrc: MichaelPizzalato,
-    name: "Michael Pizzalato, MBA, MS",
-    role: "Financial Consultant",
+    imageSrc: headShotPic,
+    name: "Taylor Morgan, MBA",
+    role: "Lorem Ipsum Title",
     bio: "",
   },
 ];

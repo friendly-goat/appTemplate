@@ -46,7 +46,7 @@ const Header = ({ darkMode, setDarkMode }) => {
           />
         </a>
         <a href="/home" className="flex flex-col leading-tight">
-          <span className="font-semibold text-xl">Twistomy</span>
+          <span className="font-semibold text-xl">Template</span>
           <span className="text-sm text-gray-500 dark:text-gray-400">Slogan</span>
         </a>
       </div>
